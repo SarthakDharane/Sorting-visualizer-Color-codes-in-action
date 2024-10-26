@@ -30,4 +30,5 @@ Choose a sorting algorithm and visualize the sorting process in automated mode.
 
 🤝 Contributions
 Siddesh Gite , Sahil Ghongate ,Sarthak Dharane(SY BETCH COMPUTER ENGINEERING,KKWIEER NASHIK)
+
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
